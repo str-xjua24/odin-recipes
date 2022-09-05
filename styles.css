@@ -7,6 +7,21 @@ body {
   font-size: 1.4em;
 }
 
+.bp-center {
+  text-align: center;
+}
+
+ul {
+  list-style: none
+}
+
+#recipe-nav {
+ display: inline-block;
+ text-align: left; 
+}
+
 img {
   border-radius: 15%;
+  width: 600px;
+  height: 400px;
 }
